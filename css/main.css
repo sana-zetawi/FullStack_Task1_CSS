@@ -1,0 +1,14 @@
+i{
+    color: white;
+    background-color: yellow;
+    width: 100px;
+    height: 50px;
+}
+.all{
+    text-align: center;
+}
+.section{
+    width: 25%;
+    text-align: center;
+    float: left;
+}
